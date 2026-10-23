@@ -14,3 +14,6 @@ Otevřete nasazenou adresu v telefonu → „Přidat na plochu / Nainstalovat". 
 
 ## Vývoj
 `npm i && npm run dev` · `npm test` · `npm run build`
+
+## Adresa aplikace
+https://m8-name.github.io/cestovani/ · QR kód: `public/qr/cestovani-qr.png` (SVG pro tisk: `public/qr/cestovani-qr.svg`)
