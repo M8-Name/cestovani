@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "trip": {
   "name": "Alpy, Garda a Cinque Terre",
   "destination": "Rakousko · Itálie",
@@ -8,19 +8,29 @@
   "from": "2027-07-17",
   "days": {
    "2027-07-17": {
-    "label": "Attersee (jezero)"
+    "label": "Attersee (jezero)",
+    "image": "trips/roadtrip-2027/files/attersee.jpg",
+    "credit": "vlastní / dodaná fotka (zdroj neověřen)"
    },
    "2027-07-18": {
-    "label": "Torbole – Lago di Garda (sever)"
+    "label": "Torbole – Lago di Garda (sever)",
+    "image": "trips/roadtrip-2027/files/torbole.jpg",
+    "credit": "vlastní / dodaná fotka (zdroj neověřen)"
    },
    "2027-07-19": {
-    "label": "Levanto (město u moře)"
+    "label": "Levanto (město u moře)",
+    "image": "trips/roadtrip-2027/files/levanto.jpg",
+    "credit": "vlastní / dodaná fotka (zdroj neověřen)"
    },
    "2027-07-20": {
-    "label": "Levanto – Cinque Terre"
+    "label": "Levanto – Cinque Terre",
+    "image": "trips/roadtrip-2027/files/cinque-terre.jpg",
+    "credit": "vlastní / dodaná fotka (zdroj neověřen)"
    },
    "2027-07-21": {
-    "label": "Lazise – Lago di Garda (jih)"
+    "label": "Lazise – Lago di Garda (jih)",
+    "image": "trips/roadtrip-2027/files/lazise.jpg",
+    "credit": "vlastní / dodaná fotka (zdroj neověřen)"
    },
    "2027-07-22": {
     "label": "Wolfgangsee (jezero)"
@@ -28,7 +38,8 @@
    "2027-07-23": {
     "label": "Pardubice (doma)"
    }
-  }
+  },
+  "image": "trips/roadtrip-2027/files/cinque-terre.jpg"
  },
  "transports": [
   {
