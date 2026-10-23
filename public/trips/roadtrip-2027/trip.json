@@ -1,0 +1,625 @@
+{
+ "version": 2,
+ "trip": {
+  "name": "Alpy, Garda a Cinque Terre",
+  "destination": "Rakousko · Itálie",
+  "to": "2027-07-23",
+  "cover": "roadtrip",
+  "from": "2027-07-17",
+  "days": {
+   "2027-07-17": {
+    "label": "Attersee (jezero)"
+   },
+   "2027-07-18": {
+    "label": "Torbole – Lago di Garda (sever)"
+   },
+   "2027-07-19": {
+    "label": "Levanto (město u moře)"
+   },
+   "2027-07-20": {
+    "label": "Levanto – Cinque Terre"
+   },
+   "2027-07-21": {
+    "label": "Lazise – Lago di Garda (jih)"
+   },
+   "2027-07-22": {
+    "label": "Wolfgangsee (jezero)"
+   },
+   "2027-07-23": {
+    "label": "Pardubice (doma)"
+   }
+  }
+ },
+ "transports": [
+  {
+   "type": "train",
+   "carrier": "Trenitalia",
+   "number": "Cinque Terre Treno MS Card",
+   "fromPlace": "Levanto",
+   "toPlace": "La Spezia",
+   "departAt": "2027-07-20T09:00",
+   "arriveAt": "",
+   "seat": "",
+   "bookingRef": "",
+   "url": "https://www.trenitalia.com",
+   "notes": "Čas orientační. Neomezeně vlakem Levanto – La Spezia. Dospělý 1 den 19,50–32,50 € (≈ 474–791 Kč) podle data (ceník 2025), děti 4–11 let a rodiny se slevou. Koupit předem v aplikaci Trenitalia. Alternativa: jednotlivé jízdenky 5/8/10 € podle sezóny, děti 4–11 let −50 % – karta se vyplatí od 3–4 jízd za den."
+  }
+ ],
+ "lodgings": [
+  {
+   "name": "Camping Grabner",
+   "place": {
+    "address": "Camping Grabner Steinbach am Attersee",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Grabner+Steinbach+am+Attersee"
+   },
+   "checkIn": "2027-07-17T15:00",
+   "checkOut": "2027-07-18T10:00",
+   "bookingRef": "",
+   "phone": "+43 7663 8940",
+   "url": "https://www.camping-grabner.at",
+   "notes": "Časy check-in/out jsou orientační."
+  },
+  {
+   "name": "Camping Maroadi",
+   "place": {
+    "address": "Camping Maroadi Torbole",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Maroadi+Torbole"
+   },
+   "checkIn": "2027-07-18T15:00",
+   "checkOut": "2027-07-19T10:00",
+   "bookingRef": "",
+   "phone": "",
+   "url": "https://www.campingmaroadi.it",
+   "notes": "Časy check-in/out jsou orientační."
+  },
+  {
+   "name": "Camping Acqua Dolce",
+   "place": {
+    "address": "Camping Acqua Dolce Levanto",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Acqua+Dolce+Levanto"
+   },
+   "checkIn": "2027-07-19T15:00",
+   "checkOut": "2027-07-21T10:00",
+   "bookingRef": "",
+   "phone": "",
+   "url": "https://www.campingacquadolce.com",
+   "notes": "Časy check-in/out jsou orientační."
+  },
+  {
+   "name": "Camping La Quercia",
+   "place": {
+    "address": "Camping La Quercia Lazise",
+    "mapUrl": "https://www.google.com/maps/search/Camping+La+Quercia+Lazise"
+   },
+   "checkIn": "2027-07-21T15:00",
+   "checkOut": "2027-07-22T10:00",
+   "bookingRef": "",
+   "phone": "",
+   "url": "https://www.laquercia.it",
+   "notes": "Časy check-in/out jsou orientační."
+  },
+  {
+   "name": "Camping Wolfgangsee Lindenstrand",
+   "place": {
+    "address": "Camping Wolfgangsee Lindenstrand",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Wolfgangsee+Lindenstrand"
+   },
+   "checkIn": "2027-07-22T15:00",
+   "checkOut": "2027-07-23T10:00",
+   "bookingRef": "",
+   "phone": "",
+   "url": "https://www.lindenstrand.at",
+   "notes": "Časy check-in/out jsou orientační."
+  }
+ ],
+ "activities": [
+  {
+   "date": "2027-07-17",
+   "title": "Přejezd Pardubice → Steinbach am Attersee",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Grabner Steinbach am Attersee",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Pardubice&destination=Camping+Grabner+Steinbach+am+Attersee&travelmode=driving"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Cesta: Č. Budějovice – Dolní Dvořiště – Linz – A1. ~380 km, ~4 h 30. Nafta ≈ 1 400 Kč (28,5 l; ČR 225 km 789 Kč, Rakousko 155 km 611 Kč)."
+  },
+  {
+   "date": "2027-07-17",
+   "title": "Ubytování: Camping Grabner",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Grabner Steinbach am Attersee",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Grabner+Steinbach+am+Attersee"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "https://www.camping-grabner.at",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Vybavení: teplá voda ve sprchách zdarma, shop a samoobslužná restaurace s terasou, hřiště s lezeckou věží, herna. Jídlo: řízek, pizza, špagety; teplá kuchyně 11:30–14 a 18–21 h. Koupání: mělký vstup do jezera, brouzdaliště, ponton; Strandbad Steinbach zdarma (tobogán). Cena ≈ 1 406 Kč/noc (57,80 €; ověřeno – ceník 2026). 1 noc: rezervace až od 3 nocí, na 1 noc jen bez rezervace – přijet odpoledne, předem zavolat +43 7663 8940."
+  },
+  {
+   "date": "2027-07-18",
+   "title": "Přejezd Attersee → Torbole (Lago di Garda)",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Maroadi Torbole",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Camping+Grabner+Steinbach+am+Attersee&destination=Camping+Maroadi+Torbole&travelmode=driving"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Cesta: Salzburg – Kufstein – Innsbruck – Brenner – A22, sjezd Rovereto Sud. ~480 km, ~5 h. Nafta ≈ 1 944 Kč (36,0 l). Mýto Brenner (A13) a italské dálnice."
+  },
+  {
+   "date": "2027-07-18",
+   "title": "Ubytování: Camping Maroadi",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Maroadi Torbole",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Maroadi+Torbole"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "https://www.campingmaroadi.it",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Přímo u jezera na okraji Torbole, minimarket a pečivo, hřiště a animace, restaurace a snack bar. Koupání z kempu; bazén ~4 km; cyklostezka do Rivy. Cena ≈ 1 494 Kč/noc (61,40 €; odhad – ověřit). 1 noc: pravděpodobně ano – v létě potvrdit e-mailem (minimální pobyt v červenci a srpnu)."
+  },
+  {
+   "date": "2027-07-19",
+   "title": "Přejezd Torbole → Levanto",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Acqua Dolce Levanto",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Camping+Maroadi+Torbole&destination=Camping+Acqua+Dolce+Levanto&travelmode=driving"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Cesta: A22 Verona – Modena – A1 Parma – A15 – A12, sjezd Carrodano. ~400 km, ~4 h 15. Nafta ≈ 1 635 Kč (30,0 l)."
+  },
+  {
+   "date": "2027-07-19",
+   "title": "Ubytování: Camping Acqua Dolce",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Acqua Dolce Levanto",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Acqua+Dolce+Levanto"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "https://www.campingacquadolce.com",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "2 noci. 200 m do centra i na pláž, nádraží ~1 km (10–15 min pěšky), střešní stany běžné. Bar, restaurace-pizzerie, jídlo s sebou; ochutnat focaccia a trofie al pesto. Městská pláž bez štěrku ~200 m (v létě přijít ráno), veřejný bazén poblíž. Cena ≈ 1 435 Kč/noc (59 €; odhad – recenze 2026). V létě rezervace nutná: formulář na webu, počkat na potvrzení, uvést auto se střešním stanem."
+  },
+  {
+   "date": "2027-07-19",
+   "title": "Večer: pláž u kempu a večeře v restauraci kempu",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Levanto, Itálie",
+    "mapUrl": "https://www.google.com/maps/search/Spiaggia+Levanto"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Po příjezdu pláž u kempu a večeře v restauraci kempu."
+  },
+  {
+   "date": "2027-07-20",
+   "title": "Dopoledne: Monterosso",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Monterosso al Mare, Itálie"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "Levanto",
+    "alightAt": "Monterosso",
+    "note": "Cinque Terre Treno MS Card, vlak Levanto – La Spezia"
+   },
+   "notes": "Vlakem první zastávka. Největší pláž Cinque Terre, koupání a oběd. Auto stojí v kempu (nafta 0 Kč)."
+  },
+  {
+   "date": "2027-07-20",
+   "title": "Odpoledne: Vernazza",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Vernazza, Itálie"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "Monterosso",
+    "alightAt": "Vernazza",
+    "note": ""
+   },
+   "notes": "Přístav a uličky, gelato."
+  },
+  {
+   "date": "2027-07-20",
+   "title": "Odpoledne: Manarola",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Manarola, Itálie"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "Vernazza",
+    "alightAt": "Manarola",
+    "note": ""
+   },
+   "notes": "Přístav a uličky, gelato. Corniglii vynechat – stojí vysoko nad nádražím."
+  },
+  {
+   "date": "2027-07-20",
+   "title": "Zpět do Levanta",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Levanto, Itálie"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "Manarola",
+    "alightAt": "Levanto",
+    "note": ""
+   },
+   "notes": "Návrat vlakem do kempu."
+  },
+  {
+   "date": "2027-07-21",
+   "title": "Dopoledne: Riomaggiore nebo pláž v Levantu",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Riomaggiore, Itálie"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "Levanto",
+    "alightAt": "Riomaggiore",
+    "note": ""
+   },
+   "notes": "Ráno ještě vlakem do Riomaggiore, nebo pláž v Levantu. Odjezd po obědě."
+  },
+  {
+   "date": "2027-07-21",
+   "title": "Přejezd Levanto → Lazise (jižní Garda)",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping La Quercia Lazise",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Camping+Acqua+Dolce+Levanto&destination=Camping+La+Quercia+Lazise&travelmode=driving"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Cesta: A12 – A15 Parma – A1 – A22 Verona. ~330 km, ~3 h 45. Nafta ≈ 1 349 Kč (24,8 l)."
+  },
+  {
+   "date": "2027-07-21",
+   "title": "Ubytování: Camping La Quercia",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping La Quercia Lazise",
+    "mapUrl": "https://www.google.com/maps/search/Camping+La+Quercia+Lazise"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "https://www.laquercia.it",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Velký resort (20 ha) ve vzrostlém parku, market, baby club, mini club, hřiště, animace. Restaurace, pizzerie, bar, snack bar, snídaňový bufet, beach bar. Aquapark a bazény s tobogány, vyhřívaný dětský bazén, vlastní písečná pláž. Cena ≈ 1 630–2 335 Kč/noc (67–96 €; odhad – recenze). 1 noc: ano (recenze 2022–2026)."
+  },
+  {
+   "date": "2027-07-22",
+   "title": "Přejezd Lazise → Wolfgangsee",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Wolfgangsee Lindenstrand",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Camping+La+Quercia+Lazise&destination=Camping+Wolfgangsee+Lindenstrand&travelmode=driving"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Cesta: A22 – Brenner – Kufstein – A8 – Salzburg. ~485 km, ~5 h 15 (mírně nad limitem 5 h). Nafta ≈ 1 967 Kč (36,4 l)."
+  },
+  {
+   "date": "2027-07-22",
+   "title": "Ubytování: Camping Wolfgangsee Lindenstrand",
+   "startTime": "",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Wolfgangsee Lindenstrand",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Wolfgangsee+Lindenstrand"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "https://www.lindenstrand.at",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "140 m vlastního břehu a louka, hřiště, přebalovací místnost, sprchy a teplá voda zdarma. Bufet a svačiny (Imbiss/Jause), potraviny a pečivo na objednávku – teplou večeři počítat spíš vlastní. Koupání z kempu, půjčovna kajaků a paddleboardů. Cena ≈ 1 338 Kč/noc (55 €; ceny „od“ – v létě mohou být vyšší). 1 noc: pravděpodobně – potvrdit, zda se taxa 3,50 € platí i za děti."
+  },
+  {
+   "date": "2027-07-23",
+   "title": "Ráno: poslední koupání ve Wolfgangsee",
+   "startTime": "09:00",
+   "bookingTime": "",
+   "place": {
+    "address": "Camping Wolfgangsee Lindenstrand",
+    "mapUrl": "https://www.google.com/maps/search/Camping+Wolfgangsee+Lindenstrand"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Snídaně a koupání, odjezd kolem 11:00."
+  },
+  {
+   "date": "2027-07-23",
+   "title": "Přejezd Wolfgangsee → Pardubice",
+   "startTime": "11:00",
+   "bookingTime": "",
+   "place": {
+    "address": "Pardubice",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Camping+Wolfgangsee+Lindenstrand&destination=Pardubice&travelmode=driving"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Cesta: A1 Linz – Dolní Dvořiště – Č. Budějovice. ~425 km, ~5 h. Nafta ≈ 1 577 Kč (31,9 l; Rakousko 200 km 789 Kč, ČR 225 km 789 Kč). Doma odpoledne či podvečer."
+  },
+  {
+   "date": "2027-07-23",
+   "title": "Pauza v půlce – oběd",
+   "startTime": "13:30",
+   "bookingTime": "",
+   "place": {
+    "address": "Linz, Rakousko"
+   },
+   "hours": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "url": "",
+   "transit": {
+    "line": "",
+    "boardAt": "",
+    "alightAt": "",
+    "note": ""
+   },
+   "notes": "Oběd mezi Linzem a Českými Budějovicemi, zhruba v polovině trasy."
+  }
+ ],
+ "restaurants": []
+}
