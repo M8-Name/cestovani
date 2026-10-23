@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "trip": {
   "name": "Alpy, Garda a Cinque Terre",
   "destination": "Rakousko · Itálie",
@@ -33,10 +33,14 @@
     "credit": "vlastní / dodaná fotka (zdroj neověřen)"
    },
    "2027-07-22": {
-    "label": "Wolfgangsee (jezero)"
+    "label": "Wolfgangsee (jezero)",
+    "image": "trips/roadtrip-2027/files/wolfgangsee.jpg",
+    "credit": "dodaná fotka (zdroj neověřen)"
    },
    "2027-07-23": {
-    "label": "Pardubice (doma)"
+    "label": "Pardubice (doma)",
+    "image": "trips/roadtrip-2027/files/pardubice.jpg",
+    "credit": "dodaná fotka (zdroj neověřen)"
    }
   },
   "image": "trips/roadtrip-2027/files/cinque-terre.jpg"
